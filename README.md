@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Singh Naruka</h1>
 <h3 align="center">A Self-motivated and hardworking coder with keen to learn new skills.</h3>
-<img src="https://github.com/Rajdeep19CS78/Rajdeep19CS78/blob/main/banner.png" alt="banner">
+<img src="https://github.com/Rajdeep19CS78/Rajdeep19CS78/blob/main/banner1.gif" alt="banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep19cs78&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep19cs78" /> </p>
 
